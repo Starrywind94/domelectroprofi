@@ -1,0 +1,12 @@
+.contact-actions {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.phone-link {
+  border-bottom: 2px solid #111;
+  font-weight: 800;
+  white-space: nowrap;
+}
